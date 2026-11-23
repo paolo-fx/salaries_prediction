@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Lab 1 environment files
+!env/
+!env/dev.env
+!env/preprod.env
+!env/prod.env
+env/local.env
+.env
